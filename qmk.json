@@ -2,6 +2,6 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["bastardkb/charybdis/4x6", "vendor"],
-        ["pinkmap"]
+        ["bastardkb/charybdis/4x6", "pinkmap"]
     ]
 }
